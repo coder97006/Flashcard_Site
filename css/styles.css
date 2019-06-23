@@ -1,24 +1,37 @@
 #javascriptDef {
     display: none;
+    
 }
 #operDef {
     display: none;
+    
 }
 
 #variDef {
     display: none;
+    
 }
 
 #functionDef {
     display: none;
+    
 }
 
 #methodDef {
     display: none;
+    
 }
 #jqueryDef {
     display: none;
+    
 }
 #booleanDef {
     display: none;
+   
+}
+.list-group-item {
+    background-color: aquamarine;
+}
+#container {
+    background-color: white;
 }
