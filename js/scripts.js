@@ -6,8 +6,8 @@ $( document ).ready(function() {
       });
 
     $(".clicks2").click(function() {       
-        $("#oper").toggle();
-        $("#operDef").toggle();
+        $("#oper").fadeToggle(4000);
+        $("#operDef").fadeToggle(4000);
       });
   
       $(".clicks3").click(function() {       
